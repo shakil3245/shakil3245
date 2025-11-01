@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: shakilahmedxce@gmail.com
+- 📫 How to reach me: shakilahmedxce@gmail.com / sakil15-3245@diu.edu.bd
 
   
 ### Connect with me:
